@@ -1,6 +1,6 @@
 package moviebookingapp;
 
-public class Demo1 {
+public class Uday {
 
 	public static void main(String[] args) {
 		int num1,num2,num3;
@@ -10,4 +10,6 @@ public class Demo1 {
 		System.out.println("num3"+ num3);
 	}
 
-}
+	}
+
+
